@@ -1,0 +1,9 @@
+dist_final/
+dist_local/
+javafx-app/
+runtime/
+out/
+target/
+.idea/
+*.jar
+*.log
